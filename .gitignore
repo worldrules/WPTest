@@ -1,0 +1,12 @@
+.htaccess
+/wp-admin/**
+/wp-includes/**
+/wp-content/cache/**
+/wp-content/languages/**
+/wp-content/upgrade/**
+/wp-content/w3tc-config/**
+/wp-content/plugins/**
+!/wp-content/plugins/debitoconta-woocomerce
+/wp-content/themes/**
+!/wp-content/themes/Avada
+*.loG
